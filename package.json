@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "Daniella Quijada <daneq152@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
