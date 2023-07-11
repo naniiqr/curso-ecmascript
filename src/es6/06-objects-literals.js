@@ -1,9 +1,9 @@
-function newUser(user, age, country) {
+function newUser(user, age, country, uId) {
     return {
         user,
         age, 
         country,
-        id: uId
+        id: uId //asi era anteriormente, se agregan los mismos valores a las variables.
     }
 }
 
