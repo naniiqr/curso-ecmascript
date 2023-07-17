@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "Daniella Quijada <daneq152@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
